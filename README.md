@@ -44,12 +44,12 @@ Nos métodos PIST é necessário enviar as informações de base e altura no cor
 <br>
 Exemplo de corpo da requisição:
 <br>
-***
+
 {
     "base": "10",
     "height": "15"
 }
-***
+
 <br>
 GET **http://127.0.0.1:8000/api/areasum**
 <br>
