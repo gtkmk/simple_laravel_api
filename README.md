@@ -9,6 +9,8 @@
 ## Comandos importantes
 
 <br>
+***LEMBRE-SE DE CONFIGURAR O ARQUIVO .env, O ARQUIVO .env.example SEGUE COM AS INFORMAÇÕES CORRETAS DE ACESSO AO BD AO DOCKER.***
+<br>
 Para utilizar este projeto, siga os passos abaixo:
 <br>
 Com o **Docker Desktop rodando**, vá até a pasta raiz do projeto e execute os seguintes comandos em ordem:
