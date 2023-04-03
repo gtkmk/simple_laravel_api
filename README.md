@@ -76,8 +76,13 @@ Em seguida, para acessar o MySQL, execute o comando:
 Você já pode rodar comandos SQL no banco de dados.
 <br>
 ***Comandos mais usados:
+<br>
 SHOW DATABASES;
+<br>
 USE laravel;
+<br>
 SHOW tables;
+<br>
 SELECT * FROM triangles;
+<br>
 SELECT * FROM rectangles;***
