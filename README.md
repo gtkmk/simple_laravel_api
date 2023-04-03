@@ -1,6 +1,5 @@
 <h1 align="center">API em Laravel</h1>
 <br>
-<br>
 
 ## Descrição do Projeto
 
