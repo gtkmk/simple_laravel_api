@@ -44,7 +44,6 @@ Nos métodos PIST é necessário enviar as informações de base e altura no cor
 <br>
 Exemplo de corpo da requisição:
 <br>
-<br>
 {
     "base": "10",
     "height": "15"
