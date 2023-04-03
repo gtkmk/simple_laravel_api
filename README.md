@@ -37,10 +37,12 @@ Para rodar os testes unitários, utilize o comando:
 <br>
 Utilize as seguintes rotas:
 <br>
-POST **http://127.0.0.1:8000/api/triangles**<br>
-POST **http://127.0.0.1:8000/api/rectangles**
+POST http://127.0.0.1:8000/api/triangles
+<br>
+POST http://127.0.0.1:8000/api/rectangles
+<br>
 Nos métodos PIST é necessário enviar as informações de base e altura no corpo da requisição no formato JSON.
-
+<br>
 Exemplo de corpo da requisição:
 ***
 {
@@ -48,7 +50,6 @@ Exemplo de corpo da requisição:
     "height": "15"
 }
 ***
-
 GET **http://127.0.0.1:8000/api/areasum**
 Retorna a soma das áreas de todas as figuras geométricas cadastradas no banco de dados.
 <br>
