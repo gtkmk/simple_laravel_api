@@ -1,7 +1,9 @@
 <h1 align="center">API em Laravel</h1>
 <br>
+<br>
 ## Descrição do Projeto
 <p align="center">Este projeto é destinado a calcular a área de figuras geométricas, como triângulos e retângulos, através de uma API construída com Laravel.</p>
+<br>
 <br>
 ## Comandos importantes
 <br>
